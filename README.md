@@ -90,3 +90,8 @@ public class WeatherApp {
         System.out.println("Description: " + description);
     }
 }
+
+
+#OUTPUT
+
+<img width="741" height="293" alt="Image" src="https://github.com/user-attachments/assets/89e21d29-e644-4be8-90ec-48437a07a839" />
